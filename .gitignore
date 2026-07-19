@@ -1,0 +1,14 @@
+# Laravel
+/vendor
+/node_modules
+.env
+
+# Flutter
+.dart_tool
+build
+
+# VS Code
+.vscode
+
+# Linux
+*.swp
